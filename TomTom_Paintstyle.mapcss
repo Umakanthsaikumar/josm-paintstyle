@@ -536,6 +536,8 @@ way[highway=motorway_link] {
     width: 6;
     z-index: 0.12;
     color: motorway#ffa500;
+    dashes: 25, 15;
+    dashes-background-color: white;
 }
 way[highway=trunk] {
     width: 7;
@@ -546,6 +548,8 @@ way[highway=trunk_link] {
     width: 6;
     z-index: 0.10;
     color: trunk#809bc0;
+    dashes: 25, 15;
+    dashes-background-color: white;
 }
 way[highway=primary] {
     width: 7;
@@ -556,6 +560,8 @@ way[highway=primary_link] {
     width: 6;
     z-index: 0.08;
     color: primary#27a327;
+    dashes: 25, 15;
+    dashes-background-color: white;
 }
 way[highway=secondary] {
     width: 7;
@@ -566,6 +572,8 @@ way[highway=secondary_link] {
     width: 6;
     z-index: 0.06;
     color: secondary#76ff7b;
+    dashes: 25, 15;
+    dashes-background-color: white;
 }
 way[highway=tertiary] {
     width: 7;
@@ -576,6 +584,8 @@ way[highway=tertiary_link] {
     width: 6;
     z-index: 0.04;
     color: tertiary#f7f496;
+    dashes: 25, 15;
+    dashes-background-color: white;
 }
 way[highway=unclassified] {
     width: 7;
