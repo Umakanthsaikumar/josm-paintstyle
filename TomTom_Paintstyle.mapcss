@@ -5610,7 +5610,9 @@ node|z15-16:connection {
     symbol-size: 4;
 }
 
+
 node|z18-36!:connection {
     symbol-shape:square;
-    symbol-size:4;
+    symbol-size:6;
+    symbol-stroke-width:2;
 }
